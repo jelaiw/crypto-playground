@@ -9,3 +9,4 @@
 2. RSA key generation. https://cryptography.io/en/latest/hazmat/primitives/asymmetric/rsa/#generation.
 2. Fernet recipe. https://cryptography.io/en/latest/fernet/.
 2. HMAC-based Extract-and-Expand key derivation function. https://cryptography.io/en/latest/hazmat/primitives/key-derivation-functions/#hkdf.
+2. cryptography vulnerable to NULL-dereference when loading PKCS7 certificates. https://github.com/advisories/GHSA-jfhm-5ghh-2f97.
